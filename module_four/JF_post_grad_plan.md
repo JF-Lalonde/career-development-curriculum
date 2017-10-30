@@ -17,11 +17,18 @@ Design a 40-hour "work week" that provides time for:
 * Check-ins: who are you talking to and when?
 
 How much time will you spend on each? When will you do each thing?
+* Code: minimum 3 hrs/day, start in the morning after breakfast. Warmup with coding challenges and start new project.
+* Outreach & Networking: reach out to at least 1 person each day and attend at least 1 meetup/event/conference each week
+* Job & company reasearch and tracking: Keep using trello board to track conversations, contacts, and companies
+* Interview prep: aside from focus on coding challenges, work through Cracking the Coding Interview and Pramp
+* Housekeeping: Go through every project and revamp READMEs, refactor projects, create cover letter template, squash commits
+* Other: plan to give talks at meetups and write blog articles whenever discovering something new
+* Check-ins: Weekly check-ins with accountabilibuddies
 
 **Action Step #1:** Establish a shareable calendar (like Google Calendar) and block out time on your calendar *now* to adhere to these goals. Be prepared to show this calendar to your instructors during your portfolio review.
 
 **Action Step #2:** Backwards plan for your big goal. What is your cut-off for ending the job search? When do you want to receive and sign an offer by?
-
+I want to have signed an offer by the end of the year. Worst case scenario I can stretch it until the end of January.
 
 **Action Step #3:** Based on what you outlined above, create monthly, weekly, and daily goals to reach in order to reach your big goal:
 
