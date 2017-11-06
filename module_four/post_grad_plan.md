@@ -128,3 +128,4 @@ Use this checklist here to make sure you have everything needed in your plan for
 - [ ] List 1-2 people from PD Peer Group who you will continue to check in with during the first 30 days post-graduation. Describe your plans for these check-ins to your instructor(s)
 - [ ] Describe one area of the job search that you feel particularly skilled in to help your cohortmates with and how you will do that with your instructor(s)
 - [ ] List 1-2 people whom you will recommend your cohortmates to, how you will make that introduction, and when you'll do that by to share with instructor(s)
+
