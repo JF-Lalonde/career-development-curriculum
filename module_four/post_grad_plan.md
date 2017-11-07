@@ -46,6 +46,7 @@ As we've discussed, meeting people, forming relationships, and having conversati
 
 **Action Step #2:** Find 3 new meetups or other career networking events to join during your first 30 days post-grad and describe why you'll attend those particular events. How will attending these meetups benefit you in your job search? How can you contribute to the community of these meetups? If you're interested in speaking at any of these meetups, describe how you'll connect with the organizers to arrange that and give a brief (2-3 sentences) pitch on what you might talk about and why. 
 
+
 ### Job/Company Research & Tracking
 Success in the job search means staying organized. The best way to do that is to have a clear system to keep track of your contacts, research, and updates on what you're doing. 
 
