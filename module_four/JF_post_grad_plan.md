@@ -8,67 +8,102 @@ As you fill out this plan, consider how your first job search will set the tone 
 ## #1: 30-Day Job Search Action Plan
 ### Create a schedule & goals for the first 30 days Post-Graduation
 Design a 40-hour "work week" that provides time for: 
-* Code (ideally, 2-4 hours a day will be dedicated to coding)
-* Outreach & Networking
-* Job & company research and tracking
-* Interview Prep
-* Housekeeping (refining your professional story, updating your resume, writing cover letters, updating your Turing portfolio, updating your LinkedIn profile)
-* Other (social networking, blogging, planning talks, etc.)
-* Check-ins: who are you talking to and when?
 
-How much time will you spend on each? When will you do each thing?
+* Code: minimum 3 hrs/day, start in the morning after breakfast. Warmup with coding challenges and start new project.
+* Outreach & Networking: reach out to at least 1 person each day and attend at least 1 meetup/event/conference each week
+* Job & company reasearch and tracking: Keep using trello board to track conversations, contacts, and companies
+* Interview prep: aside from focus on coding challenges, work through Cracking the Coding Interview and Pramp
+* Housekeeping: Go through every project and revamp READMEs, refactor projects, create cover letter template, squash commits
+* Other: plan to give talks at meetups and write blog articles whenever discovering something new
+* Check-ins: Weekly check-ins with Bret Funk and Mason Holland
 
 **Action Step #1:** Establish a shareable calendar (like Google Calendar) and block out time on your calendar *now* to adhere to these goals. Be prepared to show this calendar to your instructors during your portfolio review.
 
+I have a google calendar I've shared with Brittany.
+
 **Action Step #2:** Backwards plan for your big goal. What is your cut-off for ending the job search? When do you want to receive and sign an offer by?
+
+I want to have signed an offer by the end of the year. Worst case scenario I can stretch it until the end of January.
 
 
 **Action Step #3:** Based on what you outlined above, create monthly, weekly, and daily goals to reach in order to reach your big goal:
 
+Have these goals all set on my 40-hour work week description.
+
 
 Keep in mind:
-
 * What is feasible in your schedule?
+  * The consistency of coding, keeping the momentum going.
+  
 * What actions will give you the most impact in your search?
+  * First: refactoring/cleaning up GitHub repos.
 
 ### Coding
 For time spent coding during your first 30 days post-grad, consider: 
-* What skills would you like to improve or develop? 
+* What skills would you like to improve or develop?
+  * Keep working with Rails, but improve on Node.js and React
+  
 * Are there areas from Turing's program that you feel weaker in? How will you level up? 
+  * React because I haven't implemented it in a project yet. I want to refactor my rails mini-project with a React frontend
+  
 * Are there new languages or technologies you'd like to learn? How and when will you do that?
+  * I'm very curious about Elixir/Phoenix but I want to get more depth of skills with Ruby/JS before learning another skill.
 
 **Action Step:** Establish a “daily-practice” repository where you’ll put small daily exercises or work on issues from your own projects that you want to update to keep your skills sharp and your GitHub activity chart active. For your Mod 4 portfolio review, be prepared to describe to your instructors what you plan to work on to sharpen and advance your coding skills for the first 30 days of your job search. 
+
+https://github.com/JF-Lalonde/Daily_Practice
 
 ### Outreach & Networking
 As we've discussed, meeting people, forming relationships, and having conversations are the key pieces to getting your foot in the door at any company. It's important to be proactive in your approach to outreach and networking to stay on track during your first 30 days.
 
 **Action Step #1:** Identify at least 3 individuals from companies you're tracking who could connect with during your first 30 days. Describe why you want to connect with these people and what you hope to talk about, when you will email them by, and what your follow-up will look like once you've met with them. 
 
+I will email/contact each of these people within the next 2 weeks:
+
+1. Kayla Trimble at Ibotta: we met during job shadowing and she said she'd look into a position at Ibotta for me. I want to keep the ball rolling and get a coding challenge out of it.
+
+2. Jessica Gard at CA Technologies: we talked at the Tech Jobs Tour and I told her about my capstone project. She's working at Freshtracks.io which uses Docker and Kubernetes (Lovisa works here too)
+
+3. Alex Koch: I will apply for a job today at Raytheon, so I'll let him know so that he can send my resume to a hiring manager.
+
 **Action Step #2:** Find 3 new meetups or other career networking events to join during your first 30 days post-grad and describe why you'll attend those particular events. How will attending these meetups benefit you in your job search? How can you contribute to the community of these meetups? If you're interested in speaking at any of these meetups, describe how you'll connect with the organizers to arrange that and give a brief (2-3 sentences) pitch on what you might talk about and why. 
+
+* I'll be looking to attend a DevOps meetup in Denver, and want to go consistently so people can begin to get to know me. Once I get a feel for the group, I'd love to present my capstone project to them and get some feedback. I will be going by myself to force myself to meet new people.
 
 ### Job/Company Research & Tracking
 Success in the job search means staying organized. The best way to do that is to have a clear system to keep track of your contacts, research, and updates on what you're doing. 
 
 **Action Step:** Show how you've set up [jobtrack.io](https://jobtrack.io/) to keep track of all your company/job outreach, who you talked to, what you learned, what next steps you'll take to follow-up, and anything you might do differently next time. Be prepared to describe this system to your instructors during your portfolio review. 
 
+https://trello.com/b/X9XMyrEZ/job-hunting
+Let me know if I have to invite you.
+
 ### Interview Prep
 During this module, you've had multiple opportunities to practice your technical and cultural interviewing skills. Think about how those experiences have helped you identify strengths and weaknesses in your interviewing skills.
 
 **Action Step:** Identify 2-3 areas you'd like to continue to improve on for interviewing and outline concrete action steps on how you will improve those skills. If you plan on setting up more mock interviews, identify who you will set those up with and by what date. 
+
+  * The main thing I want to get better at is problem-solving for coding challenges. Secondary to that are technical questions.
 
 ### Housekeeping
 Make sure you have all your job search components up-to-date and looking their best!
 
 **Action Step #1:** Ensure your [Turing Portfolio](http://turing.io/alumni) has **at least 3 projects displayed,** including your latest work, and an accurate list of your desired locations. Be prepared to show this to your instructors during your M4 portfolio review. 
 
+  * I have 2 projects up but I will include a third after refactoring it and include a link to my capstone blog post.
+
 **Action Step #2:** Ensure your LinkedIn is up to date and indicates that you’re job hunting. Indicate here a summary of any adjustments you made and how you'll continue to update it and/or use the site to build your network and online presence. 
 
 ### Other
 What other areas would you like to focus on during your job search? Some possible ideas include:
-* Social Networking
 * Blogging
+  * Want to keep blogging more
+  
 * Planning and submitting meetup and/or conference talks
+  * If I find a need for a meetup somewhere I'd love to host one, otherwise I plan on attending and presenting at DevOps meetups and potentially Ruby meetups too
+  
 * Participating in hackathons or open source projects
+  * I will keep looking at Open source projects to contribute to.
 
 **Action Step:** Identify one of the areas above or an additional area that you'd like to develop further during your first 30 days post-grad and be prepared to discuss this with your instructors at your portfolio review. 
 
@@ -77,10 +112,14 @@ Accountability is key during a job search and being able to check in with a pers
 
 **Action Step:** Identify 1-2 people you'll check in with during your first 30 days post-grad. Consider how you might continue to utilize your PD Peer Groups. Describe why you will check in with this person, how you will check in with them, what you aim to talk about, and what you hope to get out of these check-ins to benefit your job search. 
 
+  * I'll check in weekly with Bret Funk and Mason Holland
+
 ### Identifying & Overcoming Barriers
 While you've made concrete plans for how to achieve your goal, it's also important to take stock of what could hold you back in the job search. 
 
 **Action Step:** Identify 1-2 "barriers" you might put on yourself in this job search as well as the steps you will take to overcome them. Be prepared to describe these in your M4 portfolio review. 
+
+  * Barrier: being demotivated. Solution: adhere to the schedule to keep momentum going.
 
 ## #2: Supporting Others in Your Cohort in Their Job Search
 *Fill out this part only if you have already secured a job prior to graduation.*
@@ -89,9 +128,15 @@ As a member of the Turing community, your support in the job search makes a big 
 
 **Action Step #1:** Identify 1-2 people from your PD Peer Group who you will continue to check in with during the first 30 days post-graduation. Describe what you will do in these check-ins, how you will help keep them motivated, and how you will follow up with these cohortmates afterwards.
 
+  * I will reach out to David and Sam weekly to grab a coffee and talk about what our plans for the job search are that week.
+
 **Action Step #2:** With the person(s) you identified above, describe one area of the job search that you feel particularly skilled in and will commit to helping them with on a regular basis during the first 30 days. Examples include: review outreach emails, review blog posts, practice storytelling, attend meetups or other events with them, etc. Why do you feel that you can help in this area? What will your help look like?
 
+  * Review blog posts
+
 **Action Step #3:** Utilize your networking experience in the job search to recommend 1-2 people whom you've met that others in your cohort would benefit from meeting as well. Describe how you will make the introductions for at least 1 person in your cohort and when you will execute this by. 
+
+  * I will reach out to anyone in my cohort based on what I know they're looking for when I encounter someone they would be interested in.
 
 ## #3: Post-Grad Plans & Action Steps
 In this section, you'll find action steps that you should aim to complete during your first 30 days post-grad, but these are not steps that you need to have completed for your portfolio review. Instead, you should begin thinking about how you will achieve these steps, and your post-grad job search support coach will ask about progress on these during that first 30 days. 
