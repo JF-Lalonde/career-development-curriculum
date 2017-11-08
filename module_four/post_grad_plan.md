@@ -23,6 +23,7 @@ How much time will you spend on each? When will you do each thing?
 **Action Step #2:** Backwards plan for your big goal. What is your cut-off for ending the job search? When do you want to receive and sign an offer by?
 
 
+
 **Action Step #3:** Based on what you outlined above, create monthly, weekly, and daily goals to reach in order to reach your big goal:
 
 
